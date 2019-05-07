@@ -1,0 +1,17 @@
+{
+  "name": "server_5808657",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server_5808657.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "shortid": "^2.2.14",
+    "socket.io": "^2.2.0"
+  }
+}
